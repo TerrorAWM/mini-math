@@ -1,0 +1,55 @@
+# 忽略特定文件
+libcurl-x64.dll
+login_status.txt
+libwinpthread-1.dll
+windows-version.zip
+server_commands.md
+
+# 编译输出
+*.o
+*.out
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+
+# 临时文件
+*.tmp
+*.temp
+*.swp
+*.bak
+*.log
+*.pid
+
+# 调试文件
+*.dSYM/
+*.core
+
+# IDE/编辑器产生的文件
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+
+# macOS系统文件
+.DS_Store
+
+# Windows系统文件
+Thumbs.db
+Desktop.ini
+
+# 构建工具
+build/
+windows-version/
+
+*.orig
+*.patch
+*.diff
+
+*.log
+*.cache
+*.tar.gz
+*.zip
+*.7z
