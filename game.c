@@ -46,22 +46,22 @@ int custom_inet_pton(int af, const char *src, void *dst) {
 // ================== 配置区域开始 ==================
 
 // 服务器 IP 地址
-#define SERVER_IP "47.121.128.254"
+#define SERVER_IP ""
 
 // 服务器端口
 #define PORT 6725
 
 // 登录接口 URL
-#define LOGIN_URL "https://3r.com.pa/minigame/login.php"
+#define LOGIN_URL ""
 
 // 注册页面 URL
-#define REGISTER_URL "https://3r.com.pa/minigame/register"
+#define REGISTER_URL ""
 
 // 查询准确率接口 URL
-#define ACCURACY_URL "https://3r.com.pa/minigame/rank_search.php"
+#define ACCURACY_URL ""
 
 // 发送游戏结果接口 URL
-#define GAME_RESULT_URL "https://3r.com.pa/minigame/rank_regis.php"
+#define GAME_RESULT_URL ""
 
 // =================== 配置区域结束 ===================
 
